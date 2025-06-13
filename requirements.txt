@@ -1,7 +1,6 @@
 streamlit
 Pillow
-rembg==2.0.50
-onnxruntime==1.15.1
+rembg[web]==2.0.50
 numpy==1.24.4
 qrcode
 PyMuPDF==1.22.3
