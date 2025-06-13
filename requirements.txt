@@ -1,9 +1,8 @@
-streamlit==1.35.0
-Pillow==10.3.0
-rembg==2.0.50
-onnxruntime==1.16.3
+streamlit
+Pillow
+numpy
 opencv-python-headless==4.9.0.80
-qrcode==7.4.2
-img2pdf==0.5.1
-numpy==1.24.4
-PyMuPDF==1.23.24
+rembg
+qrcode
+PyMuPDF
+onnxruntime
