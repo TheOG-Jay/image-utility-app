@@ -1,7 +1,8 @@
 streamlit
 Pillow
-rembg
-numpy
+rembg==2.0.50
+numpy==1.24.4
 qrcode
 PyMuPDF
 opencv-python-headless
+onnxruntime==1.15.1
