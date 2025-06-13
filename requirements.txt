@@ -1,6 +1,5 @@
 streamlit
 Pillow
-rembg[web]==2.0.50
 numpy==1.24.4
 qrcode
 PyMuPDF==1.22.3
