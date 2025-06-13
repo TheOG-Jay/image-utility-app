@@ -1,11 +1,13 @@
 
 
-streamlit
-rembg
-onnxruntime
-Pillow
 
-numpy
+streamlit==1.35.0
+rembg==2.0.51
+onnxruntime==1.17.3
+Pillow>=9.0.0
+numpy==1.24.4
+
+
 opencv-python-headless==4.9.0.80
 
 qrcode
